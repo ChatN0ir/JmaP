@@ -1,0 +1,23 @@
+html {
+    background-color: mediumaquamarine;
+}
+
+h1 {
+ color: peachpuff;
+ text-align: center;
+ font-size: 60px;
+}
+.crop {
+    width: 500px;
+    height: 500px;
+    overflow: hidden;
+}
+.crop img {
+    width: 800px;
+    height: 1400px;
+    margin: -75px 0 0 -100px;
+}
+
+img {
+    object-position: center top;    
+}
